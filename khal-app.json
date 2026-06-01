@@ -7,5 +7,10 @@
   "description": "Harmless tiny KHAL Temporal lifecycle proof pack: manifest only, no services, no deploy.",
   "author": "KHAL Proof",
   "permissions": [],
-  "kind": "app"
+  "kind": "app",
+  "views": [],
+  "desktop": {
+    "label": "Temporal Proof Pack",
+    "icon": "./icon.svg"
+  }
 }
