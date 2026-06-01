@@ -1,0 +1,11 @@
+{
+  "$schema": "https://install.khal.ai/app-kit/schema/khal-app-schema.json",
+  "id": "temporal-proof-pack",
+  "name": "Temporal Proof Pack",
+  "version": "0.0.1",
+  "icon": "./icon.svg",
+  "description": "Harmless tiny KHAL Temporal lifecycle proof pack: manifest only, no services, no deploy.",
+  "author": "KHAL Proof",
+  "permissions": [],
+  "kind": "app"
+}
